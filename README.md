@@ -100,7 +100,8 @@ npx @modelcontextprotocol/inspector uvx pexels-mcp-server
 Or if you've installed the package in a specific directory or are developing on it:
 
 ```bash
-cd path/to/servers/src/pexels
+git clone https://github.com/garylab/pexels-mcp-server.git
+cd pexels-mcp-server
 npx @modelcontextprotocol/inspector uv run pexels-mcp-server -e PEXELS_API_KEY=<the key>
 ```
 
