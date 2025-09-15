@@ -17,8 +17,8 @@ dependencies = [
 ]
 
 [project.urls]
-"Homepage" = "https://github.com/garymengcom/pexels-mcp-server"
-"Bug Tracker" = "https://github.com/garymengcom/pexels-mcp-server/issues"
+"Homepage" = "https://github.com/garylab/pexels-mcp-server"
+"Bug Tracker" = "https://github.com/garylab/pexels-mcp-server/issues"
 "Author Blog" = "https://garymeng.com"
 
 [build-system]
