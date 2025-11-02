@@ -2,6 +2,7 @@
 
 [![PyPI version](https://badge.fury.io/py/pexels-mcp-server.svg)](https://badge.fury.io/py/pexels-mcp-server)
 [![PyPI downloads](https://img.shields.io/pypi/dm/pexels-mcp-server.svg)](https://pypi.org/project/pexels-mcp-server/)
+[![Total downloads](https://pepy.tech/badge/pexels-mcp-server)](https://pepy.tech/project/pexels-mcp-server)
 [![Python version](https://img.shields.io/pypi/pyversions/pexels-mcp-server)](https://pypi.org/project/pexels-mcp-server/)
 
 A Model Context Protocol server that provides access to the **Pexels API** for searching and retrieving photos, videos, and collections.
